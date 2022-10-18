@@ -30,10 +30,10 @@
 
 <h4>Favourite Repos</h4>
 
-[![Pallets](https://github-readme-stats.vercel.app/api/pin/?username=emilkloeden&repo=pallets&theme=react)](https://github.com/emilkloeden/pallets&theme=react)
-[![Winget](https://github-readme-stats.vercel.app/api/pin/?username=emilkloeden&repo=winget&theme=react)](https://github.com/emilkloeden/winget&theme=react)
-[![Snake++](https://github-readme-stats.vercel.app/api/pin/?username=emilkloeden&repo=snake-plus-plus&theme=react)](https://github.com/emilkloeden/snake-plus-plus&theme=react)
-[![JavaVuln](https://github-readme-stats.vercel.app/api/pin/?username=emilkloeden&repo=javavuln&theme=react)](https://github.com/emilkloeden/javavuln&theme=react)
+[![Pallets](https://github-readme-stats.vercel.app/api/pin/?username=emilkloeden&repo=pallets&theme=react)](https://github.com/emilkloeden/pallets)
+[![Winget](https://github-readme-stats.vercel.app/api/pin/?username=emilkloeden&repo=winget&theme=react)](https://github.com/emilkloeden/winget)
+[![Snake++](https://github-readme-stats.vercel.app/api/pin/?username=emilkloeden&repo=snake-plus-plus&theme=react)](https://github.com/emilkloeden/snake-plus-plus)
+[![JavaVuln](https://github-readme-stats.vercel.app/api/pin/?username=emilkloeden&repo=javavuln&theme=react)](https://github.com/emilkloeden/javavuln)
 
 </center>
 <!--
